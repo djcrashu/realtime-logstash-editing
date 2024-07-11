@@ -3,6 +3,12 @@
 how it's work:
 https://www.youtube.com/watch?v=BezvrK0MvmY
 
+# Introduction:
+
+In a production or pre-production environment, restarting Logstash takes 30 seconds. 
+If you have Logstash in a Kubernetes pod, this takes longer. 
+This "Hello World" example shows how to quickly see Logstash's filter result.
+
 # Instalation:
 
 1. Install logstash:
